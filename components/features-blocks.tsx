@@ -11,8 +11,8 @@ export default function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Explore the solutions</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">Explore Nossas Soluções</h2>
+            <p className="text-xl text-gray-600">Descubra como podemos ajudá-lo a alcançar seus objetivos e superar desafios. Abaixo, você encontrará uma lista detalhada das soluções que oferecemos para atender às suas necessidades específicas. Desde inovações tecnológicas até estratégias personalizadas, estamos aqui para impulsionar o seu sucesso. Explore e descubra o que podemos fazer por si.</p>
           </div>
 
           {/* Items */}
@@ -31,8 +31,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">MPS</h4>
+              <p className="text-gray-600 text-center">Mozambique Prepaid Vending System é um sistema de gestão e geração de tokens pré-pago certificado pela STS (Standard Transfer Specification).</p>
             </div>
 
             {/* 2nd item */}
@@ -47,8 +47,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">ERP</h4>
+              <p className="text-gray-600 text-center">Explore nossa solução de gestão empresarial completa, abrangendo uma ampla gama de módulos essenciais para otimizar seus processos de negócios. </p>
             </div>
 
             {/* 3rd item */}
@@ -57,16 +57,16 @@ export default function FeaturesBlocks() {
                 <g fill="none" fillRule="evenodd">
                   <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
                   <g strokeWidth="2">
-                    <path className="stroke-current text-blue-300" d="M34.743 29.714L36.57 32 27.43 43.429H24M24 20.571h3.429l1.828 2.286" />
-                    <path className="stroke-current text-white" strokeLinecap="square" d="M34.743 41.143l1.828 2.286H40M40 20.571h-3.429L27.43 32l1.828 2.286" />
-                    <path className="stroke-current text-blue-300" d="M36.571 32H40" />
-                    <path className="stroke-current text-white" d="M24 32h3.429" strokeLinecap="square" />
+                    <path className="stroke-current text-white" d="M19.429 32a12.571 12.571 0 0021.46 8.89L23.111 23.11A12.528 12.528 0 0019.429 32z" />
+                    <path className="stroke-current text-blue-300" d="M32 19.429c6.943 0 12.571 5.628 12.571 12.571M32 24a8 8 0 018 8" />
+                    <path className="stroke-current text-white" d="M34.286 29.714L32 32" />
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">MPS-IOT</h4>
+              <p className="text-gray-600 text-center">oferece telemetria avançada para operações remotas, incluindo controle de válvulas e medição precisa de parâmetros do pipeline</p>
             </div>
+         
 
             {/* 4th item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -81,8 +81,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">TID Rollover</h4>
+              <p className="text-gray-600 text-center">Oferecemos métodos e suporte para facilitar o rollover em todos os contadores em funcionamento no seu sistema pré-pago.</p>
             </div>
 
             {/* 5th item */}
@@ -91,14 +91,15 @@ export default function FeaturesBlocks() {
                 <g fill="none" fillRule="evenodd">
                   <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
                   <g strokeWidth="2">
-                    <path className="stroke-current text-white" d="M19.429 32a12.571 12.571 0 0021.46 8.89L23.111 23.11A12.528 12.528 0 0019.429 32z" />
-                    <path className="stroke-current text-blue-300" d="M32 19.429c6.943 0 12.571 5.628 12.571 12.571M32 24a8 8 0 018 8" />
-                    <path className="stroke-current text-white" d="M34.286 29.714L32 32" />
+                    <path className="stroke-current text-blue-300" d="M34.743 29.714L36.57 32 27.43 43.429H24M24 20.571h3.429l1.828 2.286" />
+                    <path className="stroke-current text-white" strokeLinecap="square" d="M34.743 41.143l1.828 2.286H40M40 20.571h-3.429L27.43 32l1.828 2.286" />
+                    <path className="stroke-current text-blue-300" d="M36.571 32H40" />
+                    <path className="stroke-current text-white" d="M24 32h3.429" strokeLinecap="square" />
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">SGM</h4>
+              <p className="text-gray-600 text-center">O Sistema de Gestão Municipal  é uma plataforma abrangente projetada para atender às necessidades específicas das administrações municipais.</p>
             </div>
 
             {/* 6th item */}
@@ -112,8 +113,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">SGH</h4>
+              <p className="text-gray-600 text-center">O Sistema de Gestão Hospitalar (SGH) é uma plataforma especializada desenvolvida para atender às complexas demandas de instituições de saúde.</p>
             </div>
 
           </div>

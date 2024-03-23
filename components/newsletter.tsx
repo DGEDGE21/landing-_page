@@ -37,8 +37,8 @@ export default function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Want more tutorials & guides?</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">News Letter?</h3>
+                <p className="text-gray-300 text-lg mb-6"> Não perca as últimas novidades e atualizações! Inscreva-se na nossa newsletter e seja o primeiro a receber informações exclusivas, promoções especiais e conteúdo relevante diretamente na sua caixa de entrada.</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
